@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 😎
+I'm Jermaine, a work in progress Android developer.
+
+- 🔭 I’m currently working for [Appetiser Pty Ltd](https://appetiser.com.au/)
+
+- 📫 How to reach me: dilaojermaine@gmail.com
+
+- ⚡ Fun fact: I love doing music! You can check our tiny youtube channel at [thewanderstudios](https://www.youtube.com/thewanderstudios) ♥️
+
+- 👀 You can check more about me at https://jermainedilao.github.io/.
 
 <!--
 **jermainedilao/jermainedilao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
