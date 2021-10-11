@@ -1,7 +1,7 @@
 ### Hi there 👋 😎
 I'm Jermaine, a work in progress Android developer.
 
-- 🔭 I’m currently working for [Appetiser Pty Ltd](https://appetiser.com.au/)
+- 🔭 I’m currently working for [Speakap](https://www.speakap.com/) and [Codingchiefs](https://codingchiefs.com/en/)
 
 - 📫 How to reach me: dilaojermaine@gmail.com
 
