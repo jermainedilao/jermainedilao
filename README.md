@@ -7,7 +7,9 @@ I'm Jermaine, a work in progress Android developer.
 
 - ⚡ Fun fact: I love doing music! You can check our tiny youtube channel at [thewanderstudios](https://www.youtube.com/thewanderstudios) ♥️
 
-- 👀 You can check more about me at https://jermainedilao.github.io/.
+- 📖 I also write tech articles on [Medium](https://jermainedilao.medium.com/)
+
+- 👀 You can check more about me at https://jermainedilao.github.io/
 
 <!--
 **jermainedilao/jermainedilao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
