@@ -1,5 +1,5 @@
 ### Hi there 👋 😎
-I'm Jermaine, a work in progress Android developer.
+I'm Jermaine, an Android developer.
 
 - 🔭 I’m currently working for [Speakap](https://www.speakap.com/) and [CodingChiefs](https://codingchiefs.com/en/)
 
