@@ -27,5 +27,38 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 893 Contributions in the Year 2022
+ > 
+> 📦 89.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I Mostly Code in Kotlin** 
+
+```text
+Kotlin                   14 repos            █████████████░░░░░░░░░░░░   51.85% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jermainedilao/jermainedilao/main/charts/bar_graph.png) 
+
+
+ Last Updated on 21/09/2022 02:43:32 UTC
 <!--END_SECTION:waka-->
