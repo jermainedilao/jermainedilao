@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-723%20Thousand%20lines%20of%20code-blue)
 
@@ -62,14 +62,14 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 36 mins       ██████████████░░░░░░░░░░░   56.32% 
-XML                      1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   40.35% 
-Java                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
+Kotlin                   2 hrs 36 mins       ██████████████░░░░░░░░░░░   55.65% 
+XML                      1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   41.06% 
+Java                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Android Studio           4 hrs 37 mins       █████████████████████████   100.0%
+Android Studio           4 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
@@ -78,5 +78,5 @@ Android Studio           4 hrs 37 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/jermainedilao/jermainedilao/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2022 18:55:28 UTC
+ Last Updated on 24/09/2022 18:52:28 UTC
 <!--END_SECTION:waka-->
