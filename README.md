@@ -5,7 +5,7 @@ I'm Jermaine, an Android developer.
 
 - 📫 How to reach me: dilaojermaine@gmail.com
 
-- ⚡ Fun fact: I love doing music! You can check our tiny youtube channel at [thewanderstudios](https://www.youtube.com/thewanderstudios) ♥️
+- ⚡ Fun fact: I love playing music! You can check our tiny youtube channel at [thewanderstudios](https://www.youtube.com/thewanderstudios) ♥️
 
 - 📖 Read my tech articles on [Medium](https://jermainedilao.medium.com/)
 
