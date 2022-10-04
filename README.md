@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-723%20Thousand%20lines%20of%20code-blue)
 
@@ -78,5 +78,5 @@ Android Studio           19 hrs 20 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/jermainedilao/jermainedilao/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 04:16:04 UTC
+ Last Updated on 04/10/2022 19:00:51 UTC
 <!--END_SECTION:waka-->
