@@ -78,5 +78,5 @@ Android Studio           8 hrs 18 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/jermainedilao/jermainedilao/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/10/2022 18:55:31 UTC
+ Last Updated on 09/10/2022 18:52:46 UTC
 <!--END_SECTION:waka-->
