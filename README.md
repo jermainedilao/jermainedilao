@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,452 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 📦 252.4 kB Used in Github's Storage 
  > 
@@ -79,5 +79,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2023
+ Last Updated on 01/01/2024
 <!--END_SECTION:waka-->
