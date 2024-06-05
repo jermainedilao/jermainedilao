@@ -1,7 +1,7 @@
 ### Hi there 👋 😎
 I'm Jermaine, an Android developer.
 
-- 🔭 I’m currently working for [Speakap](https://www.speakap.com/) and [CodingChiefs](https://codingchiefs.com/en/)
+- 🔭 I’m currently working for [aHead app](https://www.ahead-app.com/)
 
 - 📫 How to reach me: dilaojermaine@gmail.com
 
