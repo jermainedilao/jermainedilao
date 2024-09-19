@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 ```text
 Monday       69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
 Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
-Wednesday    85 commits     █████░░░░░░░░░░░░░░░░░░░░   20.29% 
-Thursday     72 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
+Wednesday    82 commits     █████░░░░░░░░░░░░░░░░░░░░   19.57% 
+Thursday     75 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
 Friday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   20.53% 
 Saturday     25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
 Sunday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
