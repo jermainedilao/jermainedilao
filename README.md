@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,565 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 📦 253.2 kB Used in Github's Storage 
  > 
@@ -83,5 +83,5 @@ Mac                      34 hrs 18 mins      ███████████�
 ```
 
 
- Last Updated on 09/12/2024
+ Last Updated on 10/12/2024
 <!--END_SECTION:waka-->
