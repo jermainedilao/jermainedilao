@@ -1,11 +1,9 @@
 ### Hi there 👋 😎
-I'm Jermaine, an Android developer.
+I'm Jermaine, a Senior Android Engineer.
 
-- 🔭 I’m currently working for [aHead app](https://www.ahead-app.com/)
+- 🔭 I’m currently working for [Speakap](https://www.speakap.com/)
 
 - 📫 How to reach me: dilaojermaine@gmail.com
-
-- ⚡ Fun fact: I love playing music! You can check our tiny youtube channel at [thewanderstudios](https://www.youtube.com/thewanderstudios) ♥️
 
 - 📖 Read my tech articles on [Medium](https://jermainedilao.medium.com/)
 
