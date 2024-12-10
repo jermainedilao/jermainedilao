@@ -9,7 +9,7 @@ I'm Jermaine, an Android developer.
 
 - 📖 Read my tech articles on [Medium](https://jermainedilao.medium.com/)
 
-- 👀 You can check more about me at https://jermainedilao.github.io/
+- 👀 You can check more about me at [jermainedilao.framer.website](https://jermainedilao.framer.website)
 
 <!--
 **jermainedilao/jermainedilao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
