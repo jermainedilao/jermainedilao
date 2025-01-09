@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 4 Contributions in the Year 2025
+> 🏆 5 Contributions in the Year 2025
  > 
 > 📦 253.2 kB Used in Github's Storage 
  > 
@@ -66,13 +66,17 @@ Sunday       22 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   2 hrs 34 mins       ████████████████████████░   95.78% 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           2 hrs 41 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
