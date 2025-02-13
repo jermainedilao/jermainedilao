@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 > 🏆 224 Contributions in the Year 2025
  > 
-> 📦 253.3 kB Used in Github's Storage 
+> 📦 253.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,5 +81,5 @@ Mac                      25 hrs 25 mins      ███████████�
 ```
 
 
- Last Updated on 12/02/2025
+ Last Updated on 13/02/2025
 <!--END_SECTION:waka-->
