@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 📦 253.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
