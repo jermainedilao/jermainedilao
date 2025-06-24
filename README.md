@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 > 🏆 1,097 Contributions in the Year 2025
  > 
-> 📦 253.9 kB Used in Github's Storage 
+> 📦 254.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
