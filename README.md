@@ -1,7 +1,7 @@
 ### Hi there 👋 😎
 I'm Jermaine, a Senior Android Engineer.
 
-- 🔭 I’m currently working for [Speakap](https://www.speakap.com/)
+- 🔭 I’m currently working at [Speakap](https://www.speakap.com/)
 
 - 📫 How to reach me: dilaojermaine@gmail.com
 
