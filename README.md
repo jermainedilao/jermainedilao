@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 ```text
 Monday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
 Tuesday      32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Wednesday    76 commits     ███████░░░░░░░░░░░░░░░░░░   30.65% 
-Thursday     48 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+Wednesday    68 commits     ██████░░░░░░░░░░░░░░░░░░░   27.42% 
+Thursday     56 commits     █████░░░░░░░░░░░░░░░░░░░░   22.58% 
 Friday       40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
 Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
 Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.24%
