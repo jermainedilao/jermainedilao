@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 > 🏆 247 Contributions in the Year 2026
  > 
-> 📦 254.1 kB Used in Github's Storage 
+> 📦 254.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
