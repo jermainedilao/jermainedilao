@@ -46,14 +46,14 @@ Here are some ideas to get you started:
 🌙 Night      56 commits     █████░░░░░░░░░░░░░░░░░░░░   22.58%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       52 commits     █████░░░░░░░░░░░░░░░░░░░░   20.97% 
-Tuesday      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
-Wednesday    51 commits     █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-Thursday     45 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
-Friday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
+Monday       55 commits     █████░░░░░░░░░░░░░░░░░░░░   22.18% 
+Tuesday      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+Wednesday    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
+Thursday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
+Friday       60 commits     ██████░░░░░░░░░░░░░░░░░░░   24.19% 
 Saturday     6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
 Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.24%
 
