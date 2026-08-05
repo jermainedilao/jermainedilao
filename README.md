@@ -66,21 +66,21 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Kotlin                   9 hrs 56 mins       ███████████████░░░░░░░░░░   61.42% 
-Markdown                 5 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   35.18% 
-Prolog                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
-Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+Kotlin                   12 hrs 24 mins      ████████████████░░░░░░░░░   64.05% 
+Markdown                 6 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.79% 
+Prolog                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
+Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 🔥 Editors: 
-Claude Code              8 hrs 11 mins       ████████████░░░░░░░░░░░░░   50.58% 
-Android Studio           7 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.42%
+Claude Code              9 hrs 52 mins       ████████████░░░░░░░░░░░░░   50.97% 
+Android Studio           9 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.03%
 
 💻 Operating System: 
-Mac                      16 hrs 11 mins      █████████████████████████   100.0%
+Mac                      19 hrs 22 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/08/2026
+ Last Updated on 05/08/2026
 <!--END_SECTION:waka-->
