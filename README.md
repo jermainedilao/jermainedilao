@@ -66,22 +66,22 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Kotlin                   16 hrs 59 mins      ██████████████░░░░░░░░░░░   58.31% 
-Markdown                 10 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   35.65% 
-Java                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
-XML                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
-Gradle                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+Kotlin                   15 hrs 53 mins      ███████████████░░░░░░░░░░   60.09% 
+Markdown                 8 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.2% 
+Java                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
+YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 🔥 Editors: 
-Android Studio           15 hrs 42 mins      █████████████░░░░░░░░░░░░   53.91% 
-Claude Code              13 hrs 23 mins      ███████████░░░░░░░░░░░░░░   46.0% 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Android Studio           15 hrs 9 mins       ██████████████░░░░░░░░░░░   57.32% 
+Claude Code              11 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   42.58% 
+Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 💻 Operating System: 
-Mac                      29 hrs 7 mins       █████████████████████████   100.0%
+Mac                      26 hrs 27 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 14/08/2026
+ Last Updated on 15/08/2026
 <!--END_SECTION:waka-->
